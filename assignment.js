@@ -1,3 +1,4 @@
+// Question number 01
 function kilometerToMeter(kilometer){
     var meter = kilometer * 1000 ;
     return meter;
@@ -6,7 +7,7 @@ function kilometerToMeter(kilometer){
 var convertTometer = kilometerToMeter(20);
 console.log(convertTometer);
 
-
+// QUestion number 03.
 function hotelCost(days){
     var cost = 0;
  
